@@ -1,0 +1,11 @@
+flask
+numpy
+pandas
+tensorflow
+tensorflow-text
+nltk
+spacy
+matplotlib
+seaborn
+pickle5
+
